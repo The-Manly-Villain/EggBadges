@@ -1,0 +1,32 @@
+# Update 1.8.6, The Rebrand Update Part 2
+***//25*** (or //25 for nonamericans)
+
+## Added
++ A new color palette (got bored of the old and bland (66,66,66) and (177, 177, 177) greys)
++ Most of the UI was remade from scratch because of many of the old methods I used being complete junk
++ All badge images being shown in badge menu (instead of just easter eggs)
++ UI remake (most of the previous UI used horrible methods and were 4 years old)
++ 
+
+## Removed
+- 
+
+## Changed
++ Finally reordered the badges
+
+## Fixes
+-
+
+## POSTPONED
+== All of these were postponed due to the fact that I wanted to push this update out before 2026 ==
++ More obbies and obby area
++ Music volume adjustments (programmed it with UIDragDetectors, but they **still** haven't been released to games **yet**)
++ Resetting the death sound and time (laziness)
++ Trails and titles (of course)
++ Game winning currency (unpurchasable currency only obtained by completing the (future) games in EggBadges)
++ New menu after clicking play button
++ Lincoln's Leaderboards (things like daily and total wins for the (future) games)
++ Card games (making 51 cards is draining)
++ Chat tag selection (for now there are only two tags and this update can hold off until I make more)
++ Badge displaying (displays a selected earned badge above someone's head)
++ Removal of George's Gadgets (the map design is changing drastically and the building literally has no purpose in the three years that it has been there as I still haven't figured out how to make trails or titles work, I only saved it because of how empty the map looks without it)
