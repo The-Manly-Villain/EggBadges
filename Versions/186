@@ -15,7 +15,7 @@
 + Finally reordered the badges
 
 ## Fixes
--
+- Fixed Premium chat tag showing for all instead of premium users (was testing it before 1.9.5 and forgot to change ~= to ==)
 
 ## POSTPONED
 == All of these were postponed due to the fact that I wanted to push this update out before 2026 ==
