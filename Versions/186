@@ -13,6 +13,7 @@
 
 ## Changed
 + Finally reordered the badges
++ Changed feedback system to not be in Guilded (since Roblox decided to shut it down)
 
 ## Fixes
 - Fixed Premium chat tag showing for all instead of premium users (was testing it before 1.9.5 and forgot to change ~= to ==)
