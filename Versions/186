@@ -7,6 +7,7 @@
 + All badge images being shown in badge menu (instead of just easter eggs)
 + UI remake (most of the previous UI used horrible methods and were 4 years old)
 + Badge displaying
++ New menu shows when joining
 
 ## Removed
 - 
@@ -16,16 +17,18 @@
 + Changed feedback system to not be in Guilded (since Roblox decided to shut it down)
 
 ## Fixes
-- Fixed Premium chat tag showing for all instead of premium users (was testing it before 1.9.5 and forgot to change ~= to ==)
+- Fixed Premium chat tag showing for nonpremium users instead of premium users (was testing it before 1.9.5 and forgot to change ~= to ==)
+- Fixed "we already gave out badgeid(whatever)" output spam (never added a badge check for those ones apparently)
+- Made the play button go invisible after clicking so that it can't be pressed again afterwards (easy fix)
+- Update log no longer has two frames (not sure if I accidentally did this in the last update or not, but I had a duplicate frame with everything in it except one button)
 
 ## POSTPONED
 == All of these were postponed due to the fact that I wanted to push this update out before 2026 ==
++ Update log translations (not sure what method should be used right now as there's a deprecated one and an unreliable new one that's still being developed)
 + More obbies and obby area
 + Music volume adjustments (programmed it with UIDragDetectors, but they **still** haven't been released to games **yet**)
-+ Resetting the death sound and time (laziness)
 + Trails and titles (of course)
 + Game winning currency (unpurchasable currency only obtained by completing the (future) games in EggBadges)
-+ New menu after clicking play button
 + Lincoln's Leaderboards (things like daily and total wins for the (future) games)
 + Card games (making 51 cards is draining)
 + Chat tag selection (for now there are only two tags and this update can hold off until I make more)
