@@ -20,6 +20,7 @@
 - Fixed Premium chat tag showing for nonpremium users instead of premium users (was testing it before 1.9.5 and forgot to change ~= to ==)
 - Fixed "we already gave out badgeid(whatever)" output spam (never added a badge check for those ones apparently)
 - Made the play button go invisible after clicking so that it can't be pressed again afterwards (easy fix)
+- ***ACTUALLY*** made the life game playable
 - Update log no longer has two frames (not sure if I accidentally did this in the last update or not, but I had a duplicate frame with everything in it except one button)
 
 ## POSTPONED
