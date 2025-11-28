@@ -11,6 +11,8 @@
 + Wally's Word Game
 + How Rude badge
 + 1 easter egg
++ Effects, more effects, some more effects, with a side of effects (added a ton of effects to enhance the game)
++ Announcements (finally got around to making this, it's easy enough and super useful)
 
 ## Removed
 - 
@@ -31,7 +33,7 @@
 + Update log translations (not sure what method should be used right now as there's a deprecated one and an unreliable new one that's still being developed)
 + More obbies and obby area
 + Music volume adjustments (programmed it with UIDragDetectors, but they **still** haven't been released to games **yet**)
-+ Trails and titles (of course)
++ Trails and titles (wouldn't be an EggBadges update without them being postponed)
 + Game winning currency (unpurchasable currency only obtained by completing the (future) games in EggBadges)
 + Lincoln's Leaderboards (things like daily and total wins for the (future) games)
 + Card games (making 51 cards is draining)
