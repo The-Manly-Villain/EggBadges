@@ -28,6 +28,7 @@
 - Made the play button go invisible after clicking so that it can't be pressed again afterwards (easy fix)
 - ***ACTUALLY*** made the life game playable
 - Update log no longer has two frames (not sure if I accidentally did this in the last update or not, but I had a duplicate frame with everything in it except one button)
+- Feedback text clearing isn't layered incorrectly (I forgot to set the ZIndex to be above the other contents of the frame before)
 
 ## POSTPONED
 == All of these were postponed due to the fact that I wanted to push this update out before 2026 ==
