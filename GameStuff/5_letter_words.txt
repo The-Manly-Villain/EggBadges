@@ -2977,7 +2977,6 @@ cocas
 cocci
 cocco
 cocin
-cocks
 cocky
 cocle
 cocoa
@@ -3258,7 +3257,6 @@ crang
 crank
 crany
 crape
-craps
 crapy
 crare
 crash
@@ -3421,7 +3419,6 @@ cunei
 cunit
 cunni
 cunny
-cunts
 cunye
 cunza
 cupay
@@ -3821,7 +3818,6 @@ dicer
 dices
 dicey
 dicht
-dicks
 dicky
 dicot
 dicta
@@ -3850,7 +3846,6 @@ digue
 diked
 diker
 dikes
-dildo
 dilis
 dilli
 dills
@@ -4295,7 +4290,6 @@ dyers
 dying
 dyked
 dyker
-dykes
 dylan
 dynam
 dynel
@@ -5269,7 +5263,6 @@ frayn
 frays
 fraze
 frden
-freak
 fream
 freck
 freed
@@ -5337,7 +5330,6 @@ fuage
 fubby
 fubsy
 fuchi
-fucks
 fucus
 fuder
 fudge
@@ -6372,7 +6364,6 @@ helge
 helio
 helix
 hello
-hells
 helly
 helms
 heloe
@@ -6750,7 +6741,6 @@ ideta
 idgah
 idiom
 idion
-idiot
 idism
 idist
 idite
@@ -7143,7 +7133,6 @@ jiboa
 jiffs
 jiffy
 jiggy
-jihad
 jills
 jilts
 jimbo
@@ -7524,7 +7513,6 @@ kingu
 kinic
 kinin
 kinks
-kinky
 kinoo
 kinos
 kinot
@@ -8276,7 +8264,6 @@ loros
 lorry
 lorum
 losel
-loser
 loses
 lossy
 lotah
@@ -9080,7 +9067,6 @@ mormo
 morne
 morns
 moroc
-moron
 moror
 morph
 morra
@@ -9381,7 +9367,6 @@ nawob
 nayar
 nazim
 nazir
-nazis
 neaps
 nears
 neath
@@ -10685,7 +10670,6 @@ porgy
 poria
 porks
 porky
-porno
 porns
 poros
 porry
@@ -10772,7 +10756,6 @@ preys
 priam
 price
 prich
-prick
 pricy
 pride
 pridy
@@ -10933,7 +10916,6 @@ pursy
 purty
 puses
 pushy
-pussy
 putid
 puton
 putti
@@ -11130,7 +11112,6 @@ ranli
 ranny
 rants
 ranty
-raped
 raper
 rapes
 raphe
@@ -12032,7 +12013,6 @@ scrat
 scraw
 scray
 scree
-screw
 scrim
 scrin
 scrip
@@ -12321,7 +12301,6 @@ shish
 shisn
 shist
 shita
-shits
 shiva
 shive
 shivs
@@ -12706,7 +12685,6 @@ slurb
 slurp
 slurs
 slush
-sluts
 slyer
 slyly
 slype
@@ -12983,7 +12961,6 @@ spall
 spalt
 spane
 spang
-spank
 spann
 spans
 spare
@@ -13355,7 +13332,6 @@ subet
 subra
 subst
 succi
-sucks
 sucre
 sudan
 sudds
@@ -14240,7 +14216,6 @@ train
 trait
 trama
 trame
-tramp
 trams
 trank
 trans
@@ -14422,7 +14397,6 @@ tuple
 tuque
 turbo
 turco
-turds
 turfs
 turfy
 turgy
@@ -14459,7 +14433,6 @@ twana
 twang
 twank
 twant
-twats
 tweag
 tweak
 tweed
